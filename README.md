@@ -1,5 +1,4 @@
 # CarthageSpecs
-* BSRで利用するライブラリ(現時点ではRealmのみ)について管理するリポジトリ
 * GitHubに生のframeworkを設置する際に容量制限がかかるものをこのリポジトリでzip化して管理する
 
 # 構成
