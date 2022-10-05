@@ -21,6 +21,10 @@
 3. [ライブラリ名].jsonを新規作成 or バージョン情報を追記する
 4. リポジトリ(mainブランチ)にコミットして完了
 
+```sh
+$ carthage update --platform iOS --no-use-binaries --use-xcframeworks
+```
+
 ## 利用するアプリ
 1. Cartfileでバージョン指定をしてbinaryインストール
 ```
