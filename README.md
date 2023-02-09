@@ -22,7 +22,7 @@
 4. リポジトリ(mainブランチ)にコミットして完了
 
 ```sh
-$ carthage update --platform iOS --no-use-binaries --use-xcframeworks
+$ ./carthage.sh update --platform iOS --no-use-binaries --use-xcframeworks
 ```
 
 ## 利用するアプリ
